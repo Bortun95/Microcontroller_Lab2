@@ -53,7 +53,7 @@ int minute = 8;
 int second = 50;
 
 // Software timer counter for display scan and clock tick in Exercise 5
-int timer_7seg = 1;  // 25 * 10ms = 250ms scanning delay per LED (1s for full cycle)
+int timer_7seg = 25;  // 25 * 10ms = 250ms scanning delay per LED (1s for full cycle)
 int timer_dot = 100; // 1000ms (1s)
 /* USER CODE END PV */
 
