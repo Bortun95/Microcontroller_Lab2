@@ -29,7 +29,7 @@ Source code and Proteus simulation for Lab 2, implementing timer interrupts, sof
 | **LED_RED** | PA5 | LED_RED |
 | **7-Segment segments** | PB0 – PB6 | SEG0 – SEG6 |
 | **7-Segment LED Enable** | PA6 – PA9 | EN0 – EN3 |
-| **LED Matrix Cols** | PA2 – PA3, PA10 – PA15 | ENM0 - ENM7s |
+| **LED Matrix Cols** | PA2 – PA3, PA10 – PA15 | ENM0 - ENM7 |
 | **LED Matrix Rows** | PB8 – PB15 | ROW0 – ROW7 |
 
 
